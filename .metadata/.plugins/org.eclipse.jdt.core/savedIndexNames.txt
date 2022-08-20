@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/home/raj/Desktop/SPRING_TRAINING_STUFF/code_stuff/1_core/.metadata/.plugins/org.eclipse.jdt.core
+3037124151.index
+4223160422.index
+3812980561.index
+2122335122.index
+3776159736.index
+2781416250.index
+2612709392.index
+3992609100.index
+2828670185.index
+3907298938.index
+2305434465.index
+202083321.index
